@@ -5,6 +5,6 @@ import ("fmt"
 )
 	
 func main() {
-	fmt.Println(string.Reverse("Hello,  UPDATE001A  YALL world.\n"))
+	fmt.Println(string.Reverse("Hello,  UPDATE002  YALL world.\n"))
 }
 
